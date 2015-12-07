@@ -46,9 +46,9 @@ I changed my working directory to the DAT-DC-10 folder and then used `find . -na
 
 ```
 
-#7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the DAT8 repo.
+##7. Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files in the DAT8 repo.
 
 The word 'dictionary' appears in some form in 88 different locations across all files in the class repo. 
 code: `grep -r 'dictionary' ~/Desktop/GA\ Data\ Sci/DAT-DC-10/ | wc -l` 
 
-#8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
+##8. **Optional:** Use the the command line to discover something "interesting" about the Chipotle data. Try using the commands from the "advanced" section!
